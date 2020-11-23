@@ -17,7 +17,7 @@ url: https://mkyBlog.github.io/
 root: /mkyBlog/
 deploy: 
   type: 'git' 
-  repo: git@github.com:mky2018/mkyBlog.git
+#  repo: git@github.com:mky2018/mkyBlog.git
   branch: gh-pages
 permalink: :year/:month/:day/:title/
 permalink_defaults:
